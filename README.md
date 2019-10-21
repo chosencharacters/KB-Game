@@ -4,7 +4,9 @@ Theme: Running Out of Space
 Got 13th in the whole competition!
 
 [Competition Page](https://ldjam.com/events/ludum-dare/42/memory-exe)
+
 [Itch.io Page](https://squidly.itch.io/memory)
+
 [Newgrounds Page](https://www.newgrounds.com/portal/view/715381)
 
 ##Background
