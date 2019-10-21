@@ -9,7 +9,7 @@ Got 13th in the whole competition!
 
 [Newgrounds Page](https://www.newgrounds.com/portal/view/715381)
 
-##Background
+## Background
 
 A melancholy, mysterious, game presented in a minimalist style.
 
